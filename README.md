@@ -1,5 +1,7 @@
 <div align="center">
 
+<meta name="google-site-verification" content="0OW5Ig0ReOZYjnQT86EQDThhnDdVvZlNJtX_XAokQEM" />
+
 # <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/Portaluedawn/">Portaluedawn</a><a href="https://github.com/Portaluedawn/zapret-discord-youtube">/zapret-discord-youtube</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
 
 **NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy  
